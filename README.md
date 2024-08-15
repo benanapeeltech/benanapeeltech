@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @benanapeeltech
-- 👀 I’m interested in ... C and C++, Web Development, Game Development
-- 🌱 I’m currently learning ... C++ and Web Development
-- 💞️ I’m looking to collaborate on ... Projects that will teach me more about C++ and/ or Game Development
-- 📫 How to reach me ... benanapeeltech@gmail.com
-- 😄 Pronouns: ... He/they
-- ⚡ Fun fact: ... My favourite language is [insert your favourite language here]
+- 👋 Hi, I’m @benanapeeltech;
+- 👀 I’m interested in ... C and C++, Web Development, Game Development;
+- 🌱 I’m currently learning ... C++ and Web Development;
+- 💞️ I’m looking to collaborate on ... Projects that will teach me more about C++ and/ or Game Development;
+- 📫 How to reach me ... benanapeeltech@gmail.com;
+- 😄 Pronouns: ... He/they;
+- ⚡ Fun fact: ... My favourite language is [language.endsWith(semicolon)];
